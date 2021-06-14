@@ -2,7 +2,7 @@
 ## 👋Hi There
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hyeon%20seung&fontSize=85)
-## 📝My Introduce
+## 📝Introduce My Self
 * 💒school: Gwangju Software Meister High school
 * 🎨department: Andriod
 * 😀Character: Kind,Freindly,calm
