@@ -1,4 +1,4 @@
-<h1 align="center"> 🌈Andriod</h1>
+<h1 align="center">👋Hi There</h1>
 <h3 align="center"> 🛠my language⚒ </h3>
 <h2 aligh="center">
 <img src="https://img.shields.io/badge/Kotlin-A0AFFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
