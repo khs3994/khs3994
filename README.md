@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1 align="center"> 🌈Andriod</h1>
+<h3 align="center"> 🛠language⚒ </h3>
+<img src="https://img.shields.io/badge/Kotlin-A0AFFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-0A6ECD?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FAEB78?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+![khs's GitHub stats](https://github-readme-stats.vercel.app/api?username=현승&theme=dark&show_icons=true)
 <!--
 **khs3994/khs3994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
