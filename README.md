@@ -5,7 +5,6 @@
 ## 📝Introduce My Self
 * 💒school: Gwangju Software Meister High school
 * 🎨department: Andriod
-* 😀Character: Kind,Freindly,calm
 
 ## 🛠my language⚒
 <img src="https://img.shields.io/badge/Kotlin-A0AFFF?style=flat-square&logo=Kotlin&logoColor=white"/> </a><img src="https://img.shields.io/badge/Java-0A6ECD?style=flat-square&logo=Java&logoColor=white"/> </a><img src="https://img.shields.io/badge/JavaScript-FAEB78?style=flat-square&logo=JavaScript&logoColor=white"/> </a><img src="https://img.shields.io/badge/HTML5-F06464?style=flat-square&logo=HTML5&logoColor=white"/></a>
