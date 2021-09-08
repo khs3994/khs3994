@@ -11,12 +11,13 @@
 <h2 align="center"><strong>📝Introduce My Self</strong></h2>
 <div align="center"><strong>🙋‍♂️name: hyeon seung kim<br>
 💒school: Gwangju Software Meister High school<br>
-  🎨department: Andriod / Web backend</strong></div>
+  🎨department: Andriod</strong></div>
 
 <h2 align="center">🛠my stack⚒</h2>
 <div align="center">
-  <strong>Language:</strong><a><img src="https://img.shields.io/badge/javascript-FFFF00?style=flat-square&logo=javascript&logoColor=white"/></a> </a>
-<img src="https://img.shields.io/badge/Kotlin-A0AFFF?style=flat-square&logo=Kotlin&logoColor=white"/> </a><img src="https://img.shields.io/badge/Java-0A6ECD?style=flat-square&logo=Java&logoColor=white"/> </a><img src="https://img.shields.io/badge/HTML5-F06464?style=flat-square&logo=HTML5&logoColor=white"/> </a><img src="https://img.shields.io/badge/C-1E90FF?style=flat-square&logo=C&logoColor=white"/> <br> <strong>Frame Work: </strong><a><img src="https://img.shields.io/badge/Node.js-04B431?style=flat-square&logo=Node.js&logoColor=white"/></a></div> 
+  <img src="https://img.shields.io/badge/Kotlin-A0AFFF?style=flat-square&logo=Kotlin&logoColor=white"/> </a><img src="https://img.shields.io/badge/Java-0A6ECD?style=flat-square&logo=Java&logoColor=white"/><a><img src="https://img.shields.io/badge/javascript-FFFF00?style=flat-square&logo=javascript&logoColor=white"/></a> </a>
+ </a><img src="https://img.shields.io/badge/HTML5-F06464?style=flat-square&logo=HTML5&logoColor=white"/> </a><img src="https://img.shields.io/badge/C-1E90FF?style=flat-square&logo=C&logoColor=white"/> <br><a><img src="https://img.shields.io/badge/Node.js-04B431?style=flat-square&logo=Node.js&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/android studio-00FF40?style=flat-square&logo=android studio&logoColor=white"/></a></div> 
 
 <h2 align="center"><strong>📊 Github stats</strong></h2>
 
