@@ -11,7 +11,7 @@
 <h2 align="center"><strong>📝Introduce My Self</strong></h2>
 <div align="center"><strong>🙋‍♂️name: hyeon seung kim<br>
 💒school: Gwangju Software Meister High school<br>
-  🎨department: Andriod & backend</strong></div>
+  🎨department: Andriod</strong></div>
 
 <h2 align="center">🛠my stack⚒</h2>
 <div align="center">
